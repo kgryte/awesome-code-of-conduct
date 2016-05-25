@@ -12,7 +12,7 @@ Code of Conduct
 * [npm Code of Conduct](https://www.npmjs.com/policies/conduct): npm Code of Conduct
   - [GitHub](https://github.com/npm/policies/blob/master/conduct.md): policy repository
 * [TODO Group](https://github.com/todogroup/opencodeofconduct/): TODO group Open Code of Conduct template
-  - [website](http://todogroup.org/opencodeofconduct/)
+  - [website](http://todogroup.org/opencodeofconduct/): main website
 * [Geek Feminism](https://geekfeminism.org/about/code-of-conduct/): Code of Conduct
 * [Python](https://www.python.org/community/diversity/): statement on diversity
 * [Django](https://www.djangoproject.com/conduct/): Code of Conduct
