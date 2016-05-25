@@ -7,9 +7,9 @@ Code of Conduct
 ## Resources
 
 * [Citizen Code of Conduct](http://citizencodeofconduct.org/): Code of Conduct template
-* [The Rust Code of Conduct](https://www.rust-lang.org/conduct.html): Rust lang Code of Conduct
-* [Policy on Trolling](http://blog.izs.me/post/30036893703/policy-on-trolling): #node.js IRC policy
-* [npm Code of Conduct](https://www.npmjs.com/policies/conduct): npm Code of Conduct
+* [Rust Lang](https://www.rust-lang.org/conduct.html): Rust lang Code of Conduct
+* [#node.js IRC](http://blog.izs.me/post/30036893703/policy-on-trolling): #node.js IRC policy on trolling
+* [npm](https://www.npmjs.com/policies/conduct): npm Code of Conduct
   - [GitHub](https://github.com/npm/policies/blob/master/conduct.md): policy repository
 * [TODO Group](https://github.com/todogroup/opencodeofconduct/): TODO group Open Code of Conduct template
   - [website](http://todogroup.org/opencodeofconduct/): main website
