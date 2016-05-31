@@ -20,6 +20,7 @@ Code of Conduct
   - [generator](https://github.com/simonv3/covenant-generator): covenant generator
   - [website](http://contributor-covenant.org/): main website
 * [Ubuntu](http://www.ubuntu.com/about/about-ubuntu/conduct): Code of Conduct
+* [Chakra Core](https://github.com/Microsoft/ChakraCore/blob/master/CODE_OF_CONDUCT.md): Code of Conduct
 
 
 
