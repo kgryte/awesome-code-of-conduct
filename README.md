@@ -16,7 +16,7 @@ Code of Conduct
 * [Geek Feminism](https://geekfeminism.org/about/code-of-conduct/): Code of Conduct
 * [Python](https://www.python.org/community/diversity/): statement on diversity
 * [Django](https://www.djangoproject.com/conduct/): Code of Conduct
-* [Contributor Covenant](http://contributor-covenant.org/version/1/4/code_of_conduct.md): The Contributor Covenant Code of Conduct
+* [Contributor Covenant](https://www.contributor-covenant.org/version/1/4/code-of-conduct.html): The Contributor Covenant Code of Conduct
   - [generator](https://github.com/simonv3/covenant-generator): covenant generator
   - [website](http://contributor-covenant.org/): main website
 * [Ubuntu](http://www.ubuntu.com/about/about-ubuntu/conduct): Code of Conduct
